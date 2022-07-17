@@ -6,3 +6,6 @@
 - [庆忌Blog](https://github.com/qingji-fe/blog) 前端知识体系，个人总结，方向探索，代码编程
 
 - [react系列](https://github.com/qingji-fe/easy-react/tree/master/blog) 合成事件、router等源码实现原理
+
+- [组件库](https://github.com/qingji-fe/antd-pro) 一款基于antd的企业级的CURD组件库
+
