@@ -12,7 +12,7 @@
 
 ## 正在做
 - 组件库
-- es6系列源码
+- [es6系列源码](https://github.com/qingji-fe/blog/tree/main/es6)
 - react源码
 
 ## 欢迎交流
