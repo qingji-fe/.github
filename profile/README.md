@@ -9,6 +9,8 @@
 
 - [组件库](https://github.com/qingji-fe/antd-pro) 一款基于antd的企业级的CURD组件库
 
+- [指令语法](https://github.com/qingji-fe/babel-plugins-directives) 一套基于babel插件的指令语法，让代码更加简洁
+
 
 ## 正在做
 - 组件库
