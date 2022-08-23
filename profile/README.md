@@ -20,4 +20,4 @@
 
 ## 欢迎交流
 ### 微信
-<img width="287" alt="image" src="https://user-images.githubusercontent.com/21278158/184651570-4ea83ab1-a3b0-454a-8c20-c22c03dd5a82.png">
+<img width="296" alt="image" src="https://user-images.githubusercontent.com/21278158/186040941-1ea332cf-e29c-4674-b601-a91ee961f27b.png">
