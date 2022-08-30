@@ -7,9 +7,9 @@
 
 - [react系列](https://github.com/qingji-fe/easy-react/tree/master/blog) 合成事件、router等源码实现原理
 
-- [组件库](https://github.com/qingji-fe/antd-pro) 一款基于antd的企业级的CURD组件库
+- [组件库](https://github.com/qingji-fe/resonance/tree/main/antd-pro) 一款基于antd的企业级的CURD组件库
 
-- [指令语法](https://github.com/qingji-fe/babel-plugins-directives) 一套基于babel插件的指令语法，让代码更加简洁
+- [指令语法](https://github.com/qingji-fe/resonance/tree/main/babel-plugins-directives) 一套基于babel插件的指令语法，让代码更加简洁
 
 
 ## 正在做
